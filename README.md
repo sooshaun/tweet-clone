@@ -1,5 +1,5 @@
 # README
-dsfsddsf
+
 # Database (DB)
 ## Entity Relationship Diagram (ERD)
 Download the image from dbdesigner.net and paste it in
